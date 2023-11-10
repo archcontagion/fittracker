@@ -1,0 +1,51 @@
+#######################################################################
+#     Diese .htaccess wurde vom STRATO-Webservermanager erstellt      #
+#######################################################################
+
+
+
+
+AuthUserFile /mnt/rid/53/47/51135347/htdocs/.htuser
+
+
+AuthGroupFile /mnt/rid/53/47/51135347/htdocs/.htgroup
+
+
+AuthName "Gesicherter Bereich"
+AuthType Basic
+
+ 
+require user 
+
+
+require group backVistitors 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
